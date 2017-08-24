@@ -1,8 +1,8 @@
 # workshop.py
-# Introduction to Python
+# Python as a Tool for Social Scientists
 # NaLette Brodnax
 # www.nalettebrodnax.com
-# February 24, 2017
+# August 24, 2017
 
 import csv
 
